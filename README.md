@@ -1,4 +1,4 @@
-# Swype bitcoin
+# BTC-Transaction-Client
 ### Create a raw P2WPKH Segwit transaction purely on client
 
 ### Steps:
